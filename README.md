@@ -2,19 +2,20 @@
 
 **Author:** Weston Preising
 
-Fedora i3wm config for development and guitar practice/recording. Emphasis on vim-based applications when possible since vim is fun. A profound thank you to all open source contributors—thank you for making Linux accessible and enjoyable :).
+Fedora i3 spin config for development and guitar practice/recording. Emphasis on vim-based applications when possible since vim is fun. A profound thank you to all open source contributors—thank you for making Linux accessible and enjoyable :).
 
 ## To-do
 
 1. Update headers on all config files
 2. Add install commands
+3. add lxqt-policykit
+4. add lightdm-gtk theme
 
 ## Main Fedora i3wm Setup
 
 - [Fedora 43 Post Install Guide](https://github.com/devangshekhawat/Fedora-43-Post-Install-Guide) — essential post-install steps
 - [Picom](https://github.com/yshui/picom) compositor with EGL backend
 - [autorandr](https://github.com/phillipberndt/autorandr) — automatic display configuration based on connected hardware
-- [sddm-wayland-sway](https://packages.fedoraproject.org/pkgs/sway-config-fedora/sddm-wayland-sway/) - clean and works
 
 ## Terminal & Shell
 

@@ -4,6 +4,9 @@ export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
+# ripgrep-all
+export PATH=$PATH:$HOME/.cargo/bin
+
 # Make NVM loading way faster
 # Source (https://varun.ch/posts/slow-nvm/)
 export NVM_LAZY_LOAD=true 

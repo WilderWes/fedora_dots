@@ -9,7 +9,11 @@ Fedora i3 spin config for development and guitar practice/recording. Emphasis on
 1. Update headers on all config files
 2. Add install commands
 3. add lxqt-policykit
-4. add lightdm-gtk theme
+4. lightdm-gtk theme
+5. explain dark theme from reddit post
+6. explain fedora background default
+7. explain lightdm-gtk settings
+8. ripgrep-all (banger)
 
 ## Main Fedora i3wm Setup
 

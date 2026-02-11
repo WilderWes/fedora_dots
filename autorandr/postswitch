@@ -28,8 +28,8 @@ if pgrep -x firefox-bin >/dev/null; then
 fi
 
 # brave-browser
-if pgrep -x brave-browser >/dev/null; then
-    pkill -x brave-browser
+if pgrep -x brave >/dev/null; then
+    pkill -x brave
     i3-msg 'workspace 1; exec brave-browser'
 fi
 

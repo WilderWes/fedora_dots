@@ -43,16 +43,7 @@ Fedora i3 spin config for development and guitar practice/recording. Emphasis on
 ## Browsers
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/) with [Betterfox](https://github.com/yokoffing/Betterfox) user.js
-  - **Productivity & Utilities:**
-    - 1Password
-    - SponsorBlock
-    - Unhook
-    - Vimium C
-    - Ultimadark (significantly faster than Dark Reader)
-  - **Betterfox / Privacy Suite:**
-    - uBlock Origin
-    - Tampermonkey (w/ AdGuard Twitch AdBlock script)
-    - Bypass Paywalls Clean
+- [brave-browser](https://brave.com/)
 - [qutebrowser](https://qutebrowser.org/) — keyboard-driven browser, used strictly for [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim)
 
 ## Communication

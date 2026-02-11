@@ -27,6 +27,12 @@ if pgrep -x firefox-bin >/dev/null; then
     i3-msg 'workspace 1; exec firefox-aurora'
 fi
 
+# brave-browser
+if pgrep -x brave-browser >/dev/null; then
+    pkill -x brave-browser
+    i3-msg 'workspace 1; exec brave-browser'
+fi
+
 # other apps that need restarted
 if pgrep -x dunst >/dev/null; then
     pkill -x dunst

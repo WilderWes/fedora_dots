@@ -42,8 +42,8 @@ Fedora i3 spin config for development and guitar practice/recording. Emphasis on
 
 ## Browsers
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/) with [Betterfox](https://github.com/yokoffing/Betterfox) user.js
 - [brave-browser](https://brave.com/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/) with [Betterfox](https://github.com/yokoffing/Betterfox) user.js
 - [qutebrowser](https://qutebrowser.org/) — keyboard-driven browser, used strictly for [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim)
 
 ## Communication

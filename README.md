@@ -59,12 +59,15 @@ Fedora i3 spin config for development and guitar practice/recording. Emphasis on
   - [Post-Install (non-root setup)](https://docs.docker.com/engine/install/linux-postinstall/)
   - [Shell Autocompletion](https://docs.docker.com/compose/completion/)
 - [Clang-Format Style Options](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+- pandoc -- file converter
 - [img2pdf](https://pypi.org/project/img2pdf/) — lossless image to PDF
 - [cpdf](https://github.com/coherentgraphics/cpdf-binaries) — PDF manipulation CLI
 - [tldr](https://github.com/tldr-pages/tldr) - quick cli tips n' tricks
 - [zeal](https://zealdocs.org/) - offline coding reference docs
 - [SDKMAN](https://sdkman.io/) for JDK management (Gradle)
-- [w3m](https://sourceforge.net/projects/w3m/)
+- [w3m](https://sourceforge.net/projects/w3m/) -- text-based browser
+- pdftotext
+- bear -- reads compile commands from make and adds hints to clangd
 
 ## Music Production / Guitar
 
